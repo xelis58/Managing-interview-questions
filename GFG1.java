@@ -13,7 +13,8 @@ public class GFG1 {
 		StringBuilder str 
 			= new StringBuilder(); 
 
-		str.append("GFG"); 
+		System.out.println("The police are Here");
+      str.append("GFG"); 
 
 		// print string 
 		System.out.println("String = "
